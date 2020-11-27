@@ -74,7 +74,7 @@
 1. 扫描创建后的students表
 ![](figures/9.png)
 3. 查询学生来自的省
-![](figures/10.png)
+![](figures/27.png)
 4. 增加新的列Courses:English，并添加数据
 ![](figures/11.png)
 
